@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Omdb_TP",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
